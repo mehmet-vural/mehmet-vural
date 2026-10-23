@@ -33,14 +33,14 @@ Kariyer hedefim **veri bilimi ve finans**: matematik ve yazılım becerilerimi m
 
 | Proje | Ne yapıyor? | Öne çıkan sonuç | Yöntemler |
 |---|---|---|---|
-| [**Kredi Skorlama**](https://github.com/mehmetvrl32-cpu/kredi-skorlama) | Kredi başvurusunun geri ödenip ödenmeyeceğini tahmin eder, sonucu kredi puanına çevirir | AUC 0,80 · Gini 0,61 · maliyet odaklı eşikle %25 daha az kayıp | Lojistik regresyon, Random Forest, Gradient Boosting, puan kartı |
-| [**Enflasyon Tahmini**](https://github.com/mehmetvrl32-cpu/enflasyon-tahmini) | Türkiye'nin aylık enflasyonunu tahmin eder, kur geçişkenliğini ölçer | Naif tahmine göre %26 daha az hata | SARIMA, SARIMAX, geriye dönük test |
-| [**Ülke Ekonomileri Kümeleme**](https://github.com/mehmetvrl32-cpu/ulke-ekonomileri-kumeleme) | 134 ülkeyi 8 göstergeyle gruplar: Türkiye kime benziyor? | Türkiye, Çin ve Hindistan ile "yatırımla büyüyenler" kümesinde | K-Means, PCA, hiyerarşik kümeleme |
-| [**Öğrenci Başarı Analizi**](https://github.com/mehmetvrl32-cpu/ogrenci-basari-analizi) | Matematik dersinde kalma riskini erken tahmin eder; öğretmen paneli | 1. sınavdan sonra AUC 0,93 | Sınıflandırma, tekrarlı CV, Streamlit |
+| [**Kredi Skorlama**](https://github.com/mehmet-vural/kredi-skorlama) | Kredi başvurusunun geri ödenip ödenmeyeceğini tahmin eder, sonucu kredi puanına çevirir | AUC 0,80 · Gini 0,61 · maliyet odaklı eşikle %25 daha az kayıp | Lojistik regresyon, Random Forest, Gradient Boosting, puan kartı |
+| [**Enflasyon Tahmini**](https://github.com/mehmet-vural/enflasyon-tahmini) | Türkiye'nin aylık enflasyonunu tahmin eder, kur geçişkenliğini ölçer | Naif tahmine göre %26 daha az hata | SARIMA, SARIMAX, geriye dönük test |
+| [**Ülke Ekonomileri Kümeleme**](https://github.com/mehmet-vural/ulke-ekonomileri-kumeleme) | 134 ülkeyi 8 göstergeyle gruplar: Türkiye kime benziyor? | Türkiye, Çin ve Hindistan ile "yatırımla büyüyenler" kümesinde | K-Means, PCA, hiyerarşik kümeleme |
+| [**Öğrenci Başarı Analizi**](https://github.com/mehmet-vural/ogrenci-basari-analizi) | Matematik dersinde kalma riskini erken tahmin eder; öğretmen paneli | 1. sınavdan sonra AUC 0,93 | Sınıflandırma, tekrarlı CV, Streamlit |
 
 <p align="center">
-  <a href="https://github.com/mehmetvrl32-cpu/kredi-skorlama"><img src="https://raw.githubusercontent.com/mehmetvrl32-cpu/kredi-skorlama/main/grafikler/4_puan_karti.png" width="49%" alt="Kredi puanı"></a>
-  <a href="https://github.com/mehmetvrl32-cpu/ulke-ekonomileri-kumeleme"><img src="https://raw.githubusercontent.com/mehmetvrl32-cpu/ulke-ekonomileri-kumeleme/main/grafikler/3_pca_harita.png" width="49%" alt="Ülke haritası"></a>
+  <a href="https://github.com/mehmet-vural/kredi-skorlama"><img src="https://raw.githubusercontent.com/mehmet-vural/kredi-skorlama/main/grafikler/4_puan_karti.png" width="49%" alt="Kredi puanı"></a>
+  <a href="https://github.com/mehmet-vural/ulke-ekonomileri-kumeleme"><img src="https://raw.githubusercontent.com/mehmet-vural/ulke-ekonomileri-kumeleme/main/grafikler/3_pca_harita.png" width="49%" alt="Ülke haritası"></a>
 </p>
 
 ---
@@ -49,12 +49,12 @@ Kariyer hedefim **veri bilimi ve finans**: matematik ve yazılım becerilerimi m
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| [**Enflasyon ve Döviz Analizi**](https://github.com/mehmetvrl32-cpu/enflasyon-doviz-analizi) | Türkiye'nin 2005–2025 enflasyonu, döviz kuruyla ilişkisi ve **satın alma gücü paritesine** göre TL'nin reel değeri | Python · pandas · matplotlib · Jupyter |
-| [**Kredi ve Faiz Hesaplayıcı**](https://github.com/mehmetvrl32-cpu/kredi-faiz-hesaplayici) · [🔗 Canlı demo](https://mehmetvrl32-cpu.github.io/kredi-faiz-hesaplayici/) | KKDF/BSMV dahil kredi taksiti ve ödeme planı, mevduat getirisi, Fisher denklemiyle reel faiz | JavaScript · Python · pytest |
+| [**Enflasyon ve Döviz Analizi**](https://github.com/mehmet-vural/enflasyon-doviz-analizi) | Türkiye'nin 2005–2025 enflasyonu, döviz kuruyla ilişkisi ve **satın alma gücü paritesine** göre TL'nin reel değeri | Python · pandas · matplotlib · Jupyter |
+| [**Kredi ve Faiz Hesaplayıcı**](https://github.com/mehmet-vural/kredi-faiz-hesaplayici) · [🔗 Canlı demo](https://mehmet-vural.github.io/kredi-faiz-hesaplayici/) | KKDF/BSMV dahil kredi taksiti ve ödeme planı, mevduat getirisi, Fisher denklemiyle reel faiz | JavaScript · Python · pytest |
 
 <p align="center">
-  <a href="https://github.com/mehmetvrl32-cpu/enflasyon-doviz-analizi"><img src="https://raw.githubusercontent.com/mehmetvrl32-cpu/enflasyon-doviz-analizi/main/grafikler/4_ppp.png" width="49%" alt="PPP ve reel kur"></a>
-  <a href="https://mehmetvrl32-cpu.github.io/kredi-faiz-hesaplayici/"><img src="https://raw.githubusercontent.com/mehmetvrl32-cpu/kredi-faiz-hesaplayici/main/docs/ekran.png" width="49%" alt="Kredi hesaplayıcı"></a>
+  <a href="https://github.com/mehmet-vural/enflasyon-doviz-analizi"><img src="https://raw.githubusercontent.com/mehmet-vural/enflasyon-doviz-analizi/main/grafikler/4_ppp.png" width="49%" alt="PPP ve reel kur"></a>
+  <a href="https://mehmet-vural.github.io/kredi-faiz-hesaplayici/"><img src="https://raw.githubusercontent.com/mehmet-vural/kredi-faiz-hesaplayici/main/docs/ekran.png" width="49%" alt="Kredi hesaplayıcı"></a>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Kariyer hedefim **veri bilimi ve finans**: matematik ve yazılım becerilerimi m
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| [**Yanımda AI**](https://github.com/mehmetvrl32-cpu/YZTA-Team128-Bootcamp) | YZTA Bootcamp 2026 · Yalnız yaşayan yaşlılara eşlik eden, çok ajanlı yapay zekâ refakat sistemi (Takım 128, Developer) | Python · Çok ajanlı AI |
+| [**Yanımda AI**](https://github.com/mehmet-vural/YZTA-Team128-Bootcamp) | YZTA Bootcamp 2026 · Yalnız yaşayan yaşlılara eşlik eden, çok ajanlı yapay zekâ refakat sistemi (Takım 128, Developer) | Python · Çok ajanlı AI |
 | **Matematik Animasyonları** | Ortaokul matematik konularını adım adım anlatan ders animasyonları | Python · Manim |
 
 ---

@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Üretim-Yazılım-6A1B9A?style=for-the-badge" alt="Üretim: Yazılım">
 </p>
 
+<p align="center">
+  📍 Konya, Türkiye
+</p>
+
 ---
 
 ### 📈 Hakkımda
@@ -58,3 +62,9 @@ Kariyer hedefim **finans**: matematik ve yazılım becerilerimi finansal veri an
 
 > Matematik bana belirsizliği ölçmeyi, finans ise onu yönetmeyi öğretiyor.
 > Hedefim, sağlam bir matematik temeliyle veriye dayalı finansal kararlar üretmek.
+
+---
+
+### 🤝 İletişim
+
+<a href="https://www.linkedin.com/in/mehmetvrl/"><img src="https://img.shields.io/badge/LinkedIn-mehmetvrl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

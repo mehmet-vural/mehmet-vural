@@ -45,6 +45,19 @@ Kariyer hedefim **veri bilimi ve finans**: matematik ve yazılım becerilerimi m
 
 ---
 
+### 🌍 Veriyle Sürdürülebilir Kalkınma
+
+Türkiye'yi **BM Sürdürülebilir Kalkınma Amaçları** üzerinden finans ve veri bilimi gözüyle inceleyen **15 analizlik** seri. Her analiz resmî bir SKA göstergesini açık veriyle ölçüyor: finansal kapsayıcılık (8.10.2), bankacılık sağlamlığı (10.5.1), KOBİ kredisi (9.3.2), gıda fiyatı anomalileri (2.c.1), iklim stres testi, SKDM maruziyeti, deprem sigortası açığı ve daha fazlası.
+
+➡️ **[veriyle-surdurulebilir-kalkinma](https://github.com/mehmet-vural/veriyle-surdurulebilir-kalkinma)**
+
+<p align="center">
+  <a href="https://github.com/mehmet-vural/veriyle-surdurulebilir-kalkinma"><img src="https://raw.githubusercontent.com/mehmet-vural/veriyle-surdurulebilir-kalkinma/main/gorseller/04_1_karne.png" width="49%" alt="SKA karnesi"></a>
+  <a href="https://github.com/mehmet-vural/veriyle-surdurulebilir-kalkinma"><img src="https://raw.githubusercontent.com/mehmet-vural/veriyle-surdurulebilir-kalkinma/main/gorseller/16_1_risk_harita.png" width="49%" alt="İklim risk haritası"></a>
+</p>
+
+---
+
 ### 💹 Finans projeleri
 
 | Proje | Açıklama | Teknolojiler |
